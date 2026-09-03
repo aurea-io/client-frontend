@@ -1,0 +1,10 @@
+{
+  "name": "client-frontend",
+  "version": "0.0.1",
+  "description": "Frontend Web/PWA para clientes de Áurea",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  }
+}
